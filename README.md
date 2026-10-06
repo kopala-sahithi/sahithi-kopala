@@ -21,7 +21,6 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 * Exploratory Data Analysis
 * Data Visualization
 * Business Intelligence
-
 ### Tools & Technologies
 
 * Microsoft Excel
@@ -30,7 +29,8 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 * Tableau
 * Python
 * Pandas
-
+* Data Bricks
+* Py spark
 ## 📊 Featured Projects
 
 ### 🛒 Retail Sales Analysis
